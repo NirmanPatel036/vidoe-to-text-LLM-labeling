@@ -31,6 +31,8 @@ pip install torch torchvision torchaudio
 pip install transformers
 pip install opencv-python
 pip install Pillow
+pip install hugginface_hub
+pip install "hugginface_hub[cli]"
 ```
 
 Or install all dependencies at once:

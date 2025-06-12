@@ -81,7 +81,7 @@ processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base
 model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base").to(device)
 
 # Extract specific number of frames
-frames = extract_keyframes("video.mp4", num_frames=10)
+frames = extract_keyframes("video.avi", num_frames=10)
 
 # Generate individual captions
 captions = []

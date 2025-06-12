@@ -51,13 +51,20 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ## Usage
 
+### Terminal Based
+Change the path of the input video
+
+```python
+python3 pipeline.py
+```
+
 ### Basic Usage
 
 ```python
-from pipelin3 import describe_video
+from pipeline import describe_video
 
-# Generate description for a video
-description = describe_video("your_video.mp4", num_frames=5)
+# Generate a description for a video
+description = describe_video("your_video.avi", num_frames=5)
 print(description)
 ```
 

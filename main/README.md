@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
 ![Transformers](https://img.shields.io/badge/transformers-4.21%2B-yellow.svg)
 ![OpenCV](https://img.shields.io/badge/opencv--python-4.5%2B-green.svg)
 ![Pillow](https://img.shields.io/badge/Pillow-9.0%2B-orange.svg)
